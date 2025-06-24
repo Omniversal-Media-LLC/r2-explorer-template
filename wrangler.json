@@ -11,8 +11,8 @@
   "r2_buckets": [
     {
       "binding": "bucket",
-      "bucket_name": "r2-explorer-template",
-      "preview_bucket_name": "r2-explorer-bucket"
+      "bucket_name": "omniversal_s3",
+      "preview_bucket_name": "r2-omniversal_s3"
     }
   ],
   "observability": {
